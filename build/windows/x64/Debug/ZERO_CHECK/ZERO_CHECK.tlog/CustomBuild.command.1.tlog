@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\FLUTTER COURS\FLUTTER LESSON\1_LESSON\HOME_WORK\TASK_RECIPE_APP\BUILD\WINDOWS\CMAKEFILES\268B00C3819510BFEB5ED4540B0E98E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/User/Desktop/flutter cours/Flutter lesson/1_lesson/home_work/task_recipe_app/windows" "-BC:/Users/User/Desktop/flutter cours/Flutter lesson/1_lesson/home_work/task_recipe_app/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/User/Desktop/flutter cours/Flutter lesson/1_lesson/home_work/task_recipe_app/build/windows/task_recipe_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

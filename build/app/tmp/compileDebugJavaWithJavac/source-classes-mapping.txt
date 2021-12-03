@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+uz/dilshodjon/task_recipe_app/BuildConfig.java
+ uz.dilshodjon.task_recipe_app.BuildConfig

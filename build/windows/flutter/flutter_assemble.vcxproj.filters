@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\flutter cours\Flutter lesson\1_lesson\home_work\task_recipe_app\build\windows\CMakeFiles\746230835a66bc776f5202fd1a8615c3\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\flutter cours\Flutter lesson\1_lesson\home_work\task_recipe_app\build\windows\CMakeFiles\70e5e18a0498f2a3f2dcf1bc4b1126cd\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\flutter cours\Flutter lesson\1_lesson\home_work\task_recipe_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\flutter cours\Flutter lesson\1_lesson\home_work\task_recipe_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7E6312C-B788-373E-8DCA-107888DB329A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
